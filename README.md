@@ -1,3 +1,5 @@
+![Capa do Projeto](./imagens/capa-projeto.png)
+
 # 🛡️ API de Pagamentos Segura com Azure API Management
 
 Projeto desenvolvido como parte do desafio da DIO, com o objetivo de aplicar conceitos de segurança, gerenciamento e monitoramento de APIs utilizando o Azure API Management.
